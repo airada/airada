@@ -1,8 +1,5 @@
 ### Arielle Jasmine Michelle Irada
 ##### _She/Her/Hers_ | Software Engineer
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/jasmineirada/)
-<a href="https://twitter.com/jasmineirada" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmineirada@gmail.com)](mailto:jasmineirada@gmail.com)
 ---
 <br/>
 
@@ -20,3 +17,6 @@
 ![Jasmine Irada Github Stats](https://github-readme-stats.vercel.app/api?username=airada&show_icons=true&title_color=2C6975&icon_color=CDE0C9&text_color=6BB2A0&bg_color=FFFFFF)
 
 <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/jasmineirada/)
+<a href="https://twitter.com/jasmineirada" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmineirada@gmail.com)](mailto:jasmineirada@gmail.com)
