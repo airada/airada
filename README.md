@@ -1,7 +1,6 @@
 ### Arielle Jasmine Michelle Irada
 ##### _She/Her/Hers_ | Software Engineer
 ---
-<br/>
 
 ✨ Hello everyone! My name is Jasmine, and I'm a 2020 New Grad from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I hope you enjoy my work!
 
