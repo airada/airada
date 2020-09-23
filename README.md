@@ -2,7 +2,7 @@
 ##### _She/Her/Hers_ | Software Engineer
 ---
 
-✨ Hello everyone! My name is Jasmine, and I'm a 2020 New Grad from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I hope you enjoy my work!
+✨ Hello everyone! My name is Jasmine, and I'm a 2020 New Grad from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I'm currently pursuing my interests in virtual reality and natural language processing. I hope you enjoy my work!
 
 - **💻 I’m currently working on** ... creating my first mod!
 - **📚 I’m currently learning** ... how to contribute to open source projects!
