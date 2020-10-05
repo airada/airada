@@ -5,8 +5,7 @@
 ✨ Hello everyone! My name is Jasmine, and I'm a recent graduate from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I'm currently pursuing my interests in virtual reality and natural language processing. I hope you enjoy my work!
 
 - **💻 I’m currently working on** ... creating a chatbot from scratch, and an AI to produce music!
-- **📚 I’m currently learning** ... how to implement natural language processing in python!
-- **🤝 I’m looking to collaborate on** ... AR/VR projects!
+- **📚 I’m currently learning** ... how to implement natural language processing in python, and how to use blender!
 - **🙇 I’m looking for help with** ... finding good resources for user design!
 - **✨ Fun fact:** I have three first names, all named after Disney Princesses and Michelle Kwan!
 
