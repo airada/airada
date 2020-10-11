@@ -6,7 +6,7 @@
 
 - **💻 I’m currently working on** ... creating a chatbot from scratch, and an AI to produce music!
 - **📚 I’m currently learning** ... how to implement natural language processing in python, and how to use blender!
-- **🙇 I’m looking for help with** ... finding good resources for user design!
+- **🙇 I’m looking for help with** ... prepping for technical interviews!
 - **✨ Fun fact:** I have three first names, all named after Disney Princesses and Michelle Kwan!
 
 
