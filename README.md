@@ -2,10 +2,10 @@
 ##### _She/Her/Hers_ | Software Engineer
 ---
 
-✨ Hello everyone! My name is Jasmine, and I'm a recent graduate from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I'm currently pursuing my interests in virtual reality and natural language processing. I hope you enjoy my work!
+✨ Hello everyone! My name is Jasmine, and I'm a recent graduate from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I'm currently improving my front end developer skills and applying for entry-level roles. I hope you enjoy my work!
 
-- **💻 I’m currently working on** ... creating a chatbot from scratch, and an AI to produce music!
-- **📚 I’m currently learning** ... how to implement natural language processing in python, and how to use blender!
+- **💻 I’m currently working on** ... my cool passion project Mimi AI! 
+- **📚 I’m currently learning** ... best design principles for user interface and experience!
 - **🙇 I’m looking for help with** ... prepping for technical interviews!
 - **✨ Fun fact:** I have three first names, all named after Disney Princesses and Michelle Kwan!
 
