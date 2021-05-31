@@ -4,7 +4,7 @@
 
 ✨ Hello everyone! My name is Jasmine, and I'm a recent graduate from the University of California, Irvine with a B.S. in Computer Science. As a Software Engineer, I wish to create meaningful, immersive experiences. I'm currently improving my front end developer skills and applying for entry-level roles. I hope you enjoy my work!
 
-- **💻 I’m currently working on** ... redesigning my personal website and building a colorblind simulator to make websites more accessible! 
+- **💻 I’m currently working on** ... redesigning my personal website! 
 - **📚 I’m currently learning** ... best design principles for user interface and experience!
 - **🙇 I’m looking for help with** ... prepping for technical interviews!
 - **✨ Fun fact:** I have three first names, all named after Disney Princesses and Michelle Kwan!
